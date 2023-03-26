@@ -11,10 +11,10 @@ This dorectory contains common methods that are used in this project frequently.
 ### feature
 This directory contains two sub-directories:
 
-** scenarios **
+**scenarios**
 Define your test scenarios here. Put all scenarios related to a page in a direcory with appropriate name. Also scenario go_to_page help to land to differnet pages of your web applications.  
 
-** steps **
+**steps**
 Define detail steps related to scenarios here. Each step calls a method which is determined in page_classes directory in root of project.
 
 ### page_classes
